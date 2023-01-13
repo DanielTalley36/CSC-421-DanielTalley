@@ -1,2 +1,2 @@
-# CSC-421-DanielTalley
+# CSC-421
 Operating Systems Repository
